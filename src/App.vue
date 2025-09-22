@@ -4,7 +4,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <p>Some stuf to commit</p>
+  <p>Some stuf to commit 3</p>
   <header>
     <img
       alt="Vue logo"
